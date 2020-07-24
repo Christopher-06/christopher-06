@@ -1,4 +1,5 @@
-### Hi there 👋
+### Full Stack Developer
+Hi, I'm Christopher K, a computer science enthusiast based in Germany
 
 <!--
 **Christopher-06/christopher-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
