@@ -1,6 +1,6 @@
 ### 💻 Full Stack Developer
 Hi, 
-I'm Christopher, a computer science enthusiast based in Germany. I am currently working on my [Mask-Detector AI](https://github.com/Christopher-06/Mask-Detector)
+I'm Christopher, a computer science enthusiast based in Germany. I am currently working on [Hive Discover](https://github.com/Christopher-06/Hive-Discover)
 ***
 
 ## Skills 
