@@ -1,6 +1,6 @@
 ### 💻 Full Stack Developer
 Hi, 
-I'm Christopher, a computer science enthusiast based in Germany. I am currently working on [Hive Discover](https://github.com/Christopher-06/Hive-Discover)
+I'm Christopher, a computer science enthusiast based in Germany. I am currently working on [Hive Discover](https://github.com/hive-discover/Hive-Discover-Backend) and on my own cryptocurrency [CryptoCoin](https://github.com/Christopher-06/Crypto-Coin)
 ***
 
 ## Skills 
@@ -20,5 +20,7 @@ I'm Christopher, a computer science enthusiast based in Germany. I am currently 
   - Arduino IDE
   - Unity
   - Blender and Gimp
+  - Canva
+  - Office365
 </details>
 
