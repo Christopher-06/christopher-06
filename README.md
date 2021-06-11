@@ -1,6 +1,7 @@
 ## 💻 Hobby Developer
 Hi, 
-I'm Christopher, a computer science enthusiast based in Germany. I am currently working on [Hive Discover](https://github.com/hive-discover) and on my own cryptocurrency [CryptoCoin](https://github.com/Christopher-06/Crypto-Coin). CryptoCoin is just a learning project which I started some time ago to learn how cryptocurrencies work. In constrast, the Hive Discover repo contains the production code for my own Service: https://beta.hive-discover.tech
+I'm Christopher, a computer science enthusiast based in Germany. Currently I work on these projects: Firt of all, I got a service called [Hive Discover](https://github.com/hive-discover) which analyzes a social network and recommend content based on user activities. For that purpose, I need an efficient database system to find similar float-vectors in huge datasets. So I am developing [amableDB](https://github.com/Christopher-06/amableDB). The docker image can already be pulled and features like the knn-Search are available. Have a look at the documentation [here](https://github.com/Christopher-06/amableDB/wiki). Lastly, I started the [CryptoCoin](https://github.com/Christopher-06/Crypto-Coin) project to understand how blockchains/cryptocurrencies work. 
+
 
 
 ## 🚀 Skills and Experiences 
